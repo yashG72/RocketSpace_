@@ -19,22 +19,14 @@ We solve the uncertainty of online shopping by offering immersive, personalized 
 
 Follow these steps to set up the development environment:
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/suj007web/RocketSpace.git
-   cd RocketSpace
-
-   ```
-
-2. **Install Dependencies:**
+1. **Install Dependencies:**
 
    ```bash
    npm i
 
    ```
 
-3. **Start the development server:**
+2. **Start the development server:**
 
    ```bash
    npm run dev
